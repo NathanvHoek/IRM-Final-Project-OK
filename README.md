@@ -14,3 +14,6 @@ The user should use at least Python 3.6+. The libraries that are used are intern
 
 # Notebook
 To count the occurrences in the CSV-file, I used the pandas library in Jupyter notebook. For this, it is necessary to install both the Numpy library and the Pandas library. The very short program is only used to make a crosstable.
+
+# CSV File
+For every Tweet, the CSV file contains the name of the file it was found in, so that one can copy these files from the corpus and achieve the same results. 
